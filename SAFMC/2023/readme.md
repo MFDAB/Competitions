@@ -45,7 +45,10 @@ We established a 3-way connection system:
 - Router: A D-Link router acts as the central hub.
 - Drones: Each assigned a permanent static IP address via MAC address binding to ensure instant connection upon boot.
 # The Team
-- Executive Director: Irshaad
-- Coding & Hardware Directors: Sanjeev & Caleb
-- Hardware Specialists: Harsha, Benjamin, Ritvik & Armando
-- Operations & Marketing: Dylan & Abbie
+
+| Role | In Charge |
+| :--- | :---: |
+| Executive Director | Irshaad |
+| Coding & Hardware Directors | Sanjeev & Caleb |
+| Hardware Specialists | Harsha, Benjamin, Ritvik & Armando |
+| Operations & Marketing | Dylan & Abbie |
