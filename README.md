@@ -2,13 +2,13 @@
 
 This repository documents the preparation and execution of the **Mechatronics** competition during **Worldskills Singapore 2023**. Representing **Nanyang Polytechnic** from the **Diploma in Electronic & Computer Engineering**, this project showcases the assembly, programming, and commissioning of complex industrial automation systems.
 
-## 🎯 Competition Objective
+## Competition Objective
 
 The primary goal was to **assemble and commission** a Modular Production System (MPS) in the shortest time possible while adhering to all functional and technical requirements.
 
 ---
 
-## 🛠 Technical Stack & Hardware
+## Technical Stack & Hardware
 
 The competition utilized industrial-grade equipment and software to simulate real-world production environments:
 
@@ -44,7 +44,7 @@ This station is distinct for its use of pneumatic muscle technology. Unlike stan
 Usally as the final stage, the sorting station organizes the finished workpieces. Using a conveyor belt and optical or inductive sensors, it identifies the workpiece's properties and activates pneumatic gates to sort them into one of three distinct slides.
 
 
-## 📅 Competition Schedule
+## Competition Schedule
 
 The event was structured over four days at Nanyang Polytechnic (NP):
 
@@ -57,7 +57,7 @@ The event was structured over four days at Nanyang Polytechnic (NP):
 
 ---
 
-## 📊 Evaluation Criteria
+## Evaluation Criteria
 
 Performances were scored out of a **total of 60 points** across several categories:
 
@@ -67,12 +67,6 @@ Performances were scored out of a **total of 60 points** across several categori
 | **Commissioning (Sorting Station)** | 15 Points |
 | **Assembly Section** | 10 Points |
 | **Time Evaluation** | 10 Points |
-
-### Time Points Calculation
-
-Time points were awarded only if functional and assembly requirements were met, using the following formula:
-
----
 
 ## 🧠 Personal Strategy & Reflections
 
