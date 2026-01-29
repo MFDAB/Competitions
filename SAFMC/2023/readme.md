@@ -7,7 +7,10 @@ Welcome to the official repository for Tellix (our Team Name for the competition
 # The Drone (DJI Tello) Specifications
 We were given DJI Tello by the school as an option due to first time applying to the competition and also budget restriction
 
-| Header 1 | Header 2 | Header 3 |
-| :--- | :---: | ---: |
-| Cell A1 | Cell A2 | Cell A3 |
-| Cell B1 | Cell B2 | Cell B3 |
+| Features | Specification |
+| :--- | :---: |
+| Weight | 80g |
+| Max Flight Time | 13 mins (Modified) |
+| Max Speed | 8 m/s |
+| Camera | 5MP (2592x1936)/720p video |
+| Sensor | Vision Positioning System & IR Sensor |
