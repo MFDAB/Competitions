@@ -2,7 +2,7 @@
 
 **Shore Guard** is an award-winning project developed for **HPCIC 2024** by a multidisciplinary team from **Nanyang Polytechnic**. It leverages bio-mimicry, advanced material science, and real-time simulations to combat coastal erosion without compromising local ecosystems.
 
-## 🌊 The Problem
+## The Problem
 Coastal erosion is a critical threat to human development. Existing solutions often fall short:
 
 * **Hard Protection:** High costs and detrimental impacts on the environment.
@@ -10,7 +10,7 @@ Coastal erosion is a critical threat to human development. Existing solutions of
 
 
 
-## 🌱 Our Solution
+## Our Solution
 
 Shore Guard mimics the natural coastal protection of **mangrove trees**. The system consists of artificial trees acting as nodes for a "smart" root network that anchors coastal sediment and absorbs wave energy.
 
@@ -21,7 +21,7 @@ Shore Guard mimics the natural coastal protection of **mangrove trees**. The sys
 * **Digital Twin Simulation:** We utilize the **Unreal Game Engine** and drone-captured **YOLO/LIDAR** data to generate a 3D simulation ground for erosion analysis.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Simulation:** Unreal Engine 5, Physics Engine 
 * **AI/Vision:** YOLO (Object Detection), LIDAR/ToF Depth Scanning 
@@ -29,7 +29,7 @@ Shore Guard mimics the natural coastal protection of **mangrove trees**. The sys
 * **Data Science:** Topographical and ecological data preprocessing 
 
 
-## 📅 Product Roadmap
+## Product Roadmap
 
 | Phase | Goal | Key Metrics |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Shore Guard mimics the natural coastal protection of **mangrove trees**. The sys
 | **Validation** | Rigorous stress testing of AI limits | Identified performance boundaries |
 
 
-## 👥 The Team
+## The Team
 
 We are a multidisciplinary team of engineers dedicated to sustainable urban solutions:
 
@@ -48,13 +48,3 @@ We are a multidisciplinary team of engineers dedicated to sustainable urban solu
 * **Zhang Jucai:** Product Engineer (Nanotechnology & Material Science) 
 * **Armando Mak:** Data Engineer (Electronics & Computer Engineering) 
 * **R Sanjeev:** Simulation Engineer (Electronics & Computer Engineering) 
-
-
-
-## 🤝 Partners & Support
-
-This project aligns with the **Coastal Protection and Flood Management Research Programme (CFRP)** and seeks collaboration with:
-
-* **PUB**, Singapore’s National Water Agency 
-* **CFI Singapore** (Coastal Protection and Flood Resilience Institute) 
-* **NUS** (National University of Singapore) 
