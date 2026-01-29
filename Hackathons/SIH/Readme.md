@@ -40,9 +40,3 @@ The game encourages continued engagement through two main reward streams:
 
 * **Platform:** Available worldwide via the **Apple App Store** and **Google Play Store**.
 * **Cost Efficiency:** Estimated development cost of **$20k**, with potential for profit recovery through in-game advertisements and corporate-sponsored characters.
-
-
-* 
-**Strengths:** Rapid problem-solving, efficient team collaboration, and broad knowledge in STEM topics.
-
-
