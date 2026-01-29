@@ -18,7 +18,7 @@ The competition utilized industrial-grade equipment and software to simulate rea
 * **Interface:** Human Machine Interface (HMI) for machine control and monitoring.
 * **Connectivity:** Netgear EN100, Ethernet hubs, and PC integration.
 
-
+---
 ### MPS Stations
 The system comprised seven distinct stations that required individual and collective integration:
 
@@ -42,7 +42,7 @@ This station is distinct for its use of pneumatic muscle technology. Unlike stan
 
 7. **Sorting Station**
 Usally as the final stage, the sorting station organizes the finished workpieces. Using a conveyor belt and optical or inductive sensors, it identifies the workpiece's properties and activates pneumatic gates to sort them into one of three distinct slides.
-
+---
 
 ## Competition Schedule
 
@@ -67,7 +67,7 @@ Performances were scored out of a **total of 60 points** across several categori
 | **Commissioning (Sorting Station)** | 15 Points |
 | **Assembly Section** | 10 Points |
 | **Time Evaluation** | 10 Points |
-
+---
 ## 🧠 Personal Strategy & Reflections
 
 * **Team Synergy:** Adopted a strategy of helping partners with the physical build before focusing on individual programming tasks.
